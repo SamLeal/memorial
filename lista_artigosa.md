@@ -11,13 +11,11 @@
 
 - CHATTERJEE, Partha Sarathi; MITTAL, Harish Kumar. *Enhancing Operational Efficiency through the Integration of CI/CD and DevOps in Software Deployment*. In: 2024 Sixth International Conference on Computational Intelligence and Communication Technologies (CCICT). IEEE, 2024. p. 173-182. [Link](https://ieeexplore.ieee.org/abstract/document/10596596)
 
-- BERNARDO, João Helis et al. *The impact of a continuous integration service on the delivery time of merged pull requests*. *Empirical Software Engineering*, v. 28, n. 4, p. 97, 2023.
+- BERNARDO, João Helis et al. *The impact of a continuous integration service on the delivery time of merged pull requests*. *Empirical Software Engineering*, v. 28, n. 4, p. 97, 2023. [Linl](https://link.springer.com/article/10.1007/s10664-023-10327-6)
 
 - CASSEE, Nathan; VASILESCU, Bogdan; SEREBRENIK, Alexander. *The silent helper: the impact of continuous integration on code reviews*. In: *2020 IEEE 27th International Conference on Software Analysis, Evolution and Reengineering (SANER)*. IEEE, 2020. p. 423-434. [Link](https://ieeexplore.ieee.org/abstract/document/9054818)
 
-
-- WESSEL, Mairieli et al. *GitHub Actions: The Impact on the Pull Request Process*. *Empirical Software Engineering*, v. 28, n. 6, p. 131, 2023.
-# New Research References
+- WESSEL, Mairieli et al. *GitHub Actions: The Impact on the Pull Request Process*. *Empirical Software Engineering*, v. 28, n. 6, p. 131, 2023.[Link](https://link.springer.com/article/10.1007/s10664-023-10369-w)
 
 - CHITTALA, Sekhar. Enhancing developer productivity through automated ci/cd pipelines: a comprehensive analysis. INTERNATIONAL JOURNAL OF COMPUTER ENGINEERING AND TECHNOLOGY (IJCET), v. 15, n. 5, p. 882-891, 2024. [Link](https://lib-index.com/index.php/IJCET/article/view/IJCET_15_05_081)
 
@@ -36,13 +34,12 @@
 - PRAKASH, Chandra; ARORA, Sunil. *Systematic Analysis of Factors Influencing Modulith Architecture Adoption over Microservices*. In: *2024 TRON Symposium (TRONSHOW)*. IEEE, 2024. p. 1-8. [Link](https://ieeexplore.ieee.org/abstract/document/10826056/)
 
 
-
 - WESSEL, Mairieli et al. *Quality gatekeepers: investigating the effects of code review bots on pull request activities*. *Empirical Software Engineering*, v. 27, n. 5, p. 108, 2022.
 - WESSEL, Mairieli et al. *Effects of adopting code review bots on pull requests to OSS projects*. In: *2020 IEEE International Conference on Software Maintenance and Evolution (ICSME)*. IEEE, 2020. p. 1-11.
 
 
 ### Software Testing
-- *Assessing Mock Classes: An Empirical Study*. [DOI: 10.1109/ICSME46990.2020.00050](https://doi.org/10.1109/ICSME46990.2020.00050)
-- *Characterizing High-Quality Test Methods: A First Empirical Study*. [Link](https://doi.org/10.1145/3524842.3529092)
+- PEREIRA, Gustavo; HORA, Andre. Assessing mock classes: An empirical study. In: 2020 IEEE International Conference on Software Maintenance and Evolution (ICSME). IEEE, 2020. p. 453-463.. [Link](https://doi.org/10.1109/ICSME46990.2020.00050)
+- VELOSO, Victor; HORA, Andre. Characterizing high-quality test methods: a first empirical study. In: Proceedings of the 19th International Conference on Mining Software Repositories. 2022. p. 265-269.. [Link](https://doi.org/10.1145/3524842.3529092)
 - MISHRA, Lalit; NAYAK, Saroj Kumar. *A comparative analysis of test-driven development and behavior-driven development in CI/CD pipelines: Enhancing software quality and delivery speed*. *Well Testing Journal*, v. 31, n. 2, p. 33-55, 2022. [Link](https://welltestingjournal.com/index.php/WT/article/view/107)
 
