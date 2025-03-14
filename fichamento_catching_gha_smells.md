@@ -9,21 +9,13 @@ Este artigo investiga os "*workflow smells*", características em configuraçõe
 ### 2. Fichamento Bibliográfico
 
 - ***GitHub Actions* (GHA):** Plataforma integrada ao *GitHub* que automatiza *workflows* de *CI/CD*, permitindo a execução de ações baseadas em eventos, como *push* de código e *pull requests*.
-
 - ***Workflow Smells*:** Características ou padrões problemáticos em *workflows* de *CI/CD* que podem indicar problemas ocultos, como má configuração ou ineficiência.
-
 - ***Continuous Integration* (CI):** Prática de engenharia de software que envolve a integração frequente de código em um repositório compartilhado, acompanhada pela execução automatizada de testes.
-
 - ***Continuous Deployment* (CD):** Extensão do *CI* que automatiza a entrega contínua de software, publicando as alterações aprovadas para produção.
 
 ### 3. Fichamento de Citações
 
 - "*From these frequent change patterns, we identified and defined a candidate list of 22 potential *GHA workflow smells* (*RQ2*). The external validation confirmed the relevance of six previously discussed *smells* and identified a new *smell*, *Smell 10: “Avoid uploading artifacts on forks”*, highlighting optimization of resource usage.*"
-
 - "*This study provides insight into the existence and relevance of seven *GHA workflow smells*, which have been validated by *open-source developers* through our *contribution study*.*"
-
 - "*Future work should focus on understanding how *project-specific context* influences the perception and importance of *smells*.*"
 
----
-
-Ajustei tudo para destacar os termos em inglês corretamente! Se precisar de algo mais, é só falar. 🚀
